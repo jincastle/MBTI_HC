@@ -83,7 +83,7 @@ export const questions = [
 export const results = [
   {
     title: '출근 시간은<br>내가 정해!',
-    character: '/images/result_character1.png',
+    character: './images/result_character1.png',
     results: [
       '혼자서 멘탈 케어가 가능해요!<br>소속이 없어도, 벌이가 불안정해도 저는 지금이 좋아요!',
       '일에 대한 욕심이 많아요.<br>행복한 야근이라고 할 수 있어요!',
@@ -91,7 +91,7 @@ export const results = [
       '리더십 있다는 소리를 자주 들어요.<br>추진력이 있는 편이죠~ (뿌듯)'
     ],
     jobs: ['프리랜서', '창업가'],
-    lectureImg: '/images/result_lecture1.png',
+    lectureImg: './images/result_lecture1.png',
     lectureUrl: 'https://bit.ly/3Wr0kt6'
   },
   {
@@ -104,12 +104,12 @@ export const results = [
       '회사 행사나 크리스마스 이벤트,<br>회사사람들 생일까지 우리가 다 챙길게요'
     ],
     jobs: ['마케터', '기획자'],
-    lectureImg: '/images/result_lecture2.png',
+    lectureImg: './images/result_lecture2.png',
     lectureUrl: 'https://bit.ly/3SZl1t9'
   },
   {
     title: '우리 무기는<br>상상력!',
-    character: '/images/result_character3.png',
+    character: './images/result_character3.png',
     results: [
       '이것저것 관심이 많은 편이에요.<br>모든 게 궁금해요!',
       '섬세함이 장점으로<br>업무를 센스 있게 처리한다는 말을 자주 들어요.',
@@ -122,7 +122,7 @@ export const results = [
   },
   {
     title: '인생은<br>한방!',
-    character: '/images/result_character4.png',
+    character: './images/result_character4.png',
     results: [
       '전략적으로 계획을 세우는 걸 좋아해요!',
       '평소 경제와 사회 이슈에 관심이 매우 많아요.',
@@ -135,7 +135,7 @@ export const results = [
   },
   {
     title: '한 번 집중하면<br>멈출 수 없지!',
-    character: '/images/result_character5.png',
+    character: './images/result_character5.png',
     results: [
       '저는 위선과 가식이 없어요.<br>진실만 말하죠. (진지)',
       '혼자서 더 잘해요.<br>솔로 워커 최고!',
@@ -148,7 +148,7 @@ export const results = [
   },
   {
     title: '인생 욜로지~<br>일단 놀자 ><',
-    character: '/images/result_character6.png',
+    character: './images/result_character6.png',
     results: [
       '취미가 100개!<br>이것저것 다재다능해요~',
       '한가하냐고요?<br>원래 백수가 젤 바쁜 거에요!',
