@@ -117,7 +117,7 @@ export const results = [
       '업무에 예민할 때도 있지만,<br>그래서 결과물은 완벽하죠!'
     ],
     jobs: ['디자이너', '예술가'],
-    lectureImg: '/images/result_lecture3.png',
+    lectureImg: './images/result_lecture3.png',
     lectureUrl: 'https://bit.ly/3DWlesG'
   },
   {
@@ -130,7 +130,7 @@ export const results = [
       '일할 땐 일하고! 놀 땐 놀고!<br>뭐든 확실한 게 좋아요.'
     ],
     jobs: ['부동산<br>투자자', '주식<br>투자자'],
-    lectureImg: '/images/result_lecture4.png',
+    lectureImg: './images/result_lecture4.png',
     lectureUrl: 'https://bit.ly/3fvoTo5'
   },
   {
@@ -143,7 +143,7 @@ export const results = [
       '(이상) <<<<<< (현실)<br>가끔 이성에게 상처를 줄 때가 있어요, 그게 아닌데...'
     ],
     jobs: ['개발자', '데이터분석가'],
-    lectureImg: '/images/result_lecture5.png',
+    lectureImg: './images/result_lecture5.png',
     lectureUrl: 'https://bit.ly/3U0O3Kj'
   },
   {
@@ -156,7 +156,7 @@ export const results = [
       '가끔이지만, 갓생살기 도전해요!'
     ],
     jobs: ['돈 많은 백수', '유튜버'],
-    lectureImg: '/images/result_lecture6.png',
+    lectureImg: './images/result_lecture6.png',
     lectureUrl: 'https://bit.ly/3fzdinR'
   }
 ]
